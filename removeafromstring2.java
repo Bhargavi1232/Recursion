@@ -1,4 +1,6 @@
 import java.util.*;
+//removing character a from the given string
+//by not passing answer string as arguments
 
 class removeafromstring2{
     public static void main(String [] args){
